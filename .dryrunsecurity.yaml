@@ -1,0 +1,6 @@
+sensitiveCodepaths:
+  - 'README.md'
+allowedAuthors:
+  usernames:
+notificationList:
+  - '@cktricky'
