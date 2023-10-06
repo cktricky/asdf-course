@@ -1,2 +1,3 @@
 # asdf-course
-asdf
+
+DryRun is installed!
