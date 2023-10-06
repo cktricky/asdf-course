@@ -1,2 +1,0 @@
-# asdf-course
-asdf
